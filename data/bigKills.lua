@@ -158,6 +158,19 @@ return S{
 16879861,   --Makara
 17215772,   --vulture
 17215764,   --Rock Lizard
+17444870, 	--Graviton
+17444866,	--Molybiton
+17444867,	--Tungsiton
+17444868,	--Tonberrys_Elemental
+17444869,	--Tonberrys_Avatar
+17444870,	--Graviton
+17444871,	--Molybiton
+17444872,	--Tungsiton
+17444873,	--Tonberrys_Elemental
+17444874,	--Tonberrys_Avatar
+17444875,	--Graviton
+17444876,	--Molybiton
+17444877,	--Tungsiton
 
 --Random NM
 16806215,	--Xolotl
