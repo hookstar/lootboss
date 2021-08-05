@@ -301,14 +301,56 @@ return S{
 1923,   --Ultima's Leg
 1924,   --Ultima's Tail
 
---NE Apollo
---SE Apollo
---NW Apollo
---SW Apollo
-
-
-
-
+1933,	--Ancient Brass (MNK)
+1931,	--Argyro Rivet (WAR)
+1959,	--Astral Leather (SMN)
+1935,	--Benedict Yarn (WHM)
+1945,	--Black Rivet (DRK)
+1957,	--Blue Rivet (DRG)
+1949,	--Brown Doeskin (BRD)
+2659,	--Canvas Toile (COR)
+1939,	--Cardinal Cloth (RDM)
+1951,	--Charcoal Cotton (RNG)
+2661,	--Corduroy Cloth (PUP)
+1937,	--Diabolic Yarn (BLM)
+1955,	--Ebony Lacquer (NIN)
+2717,	--Electrum Stud (SCH)
+1947,	--Fetid Lanolin (BST)
+2657,	--Flameshun Cloth (BLU)
+2715,	--Gold Stud (DNC)
+1953,	--Kurogane (SAM)
+1941,	--Light Filament (THF)
+1943,	--White Rivet (PLD)
+1934,	--Benedict Silk 
+2716,	--Brilliantine 
+1956,	--Cobalt Mythril Sheet 
+1950,	--Chameleon Yarn 
+1948,	--Coiled Yarn 
+1944,	--Dark Orichalcum 
+1936,	--Diabolic Silk 
+1930,	--Ecarlate Cloth 
+2714,	--Filet Lace 
+1958,	--Glittering Yarn 
+2656,	--Luminian Thread 
+2660,	--Pantin Wire 
+1954,	--Plaited Cord 
+1938,	--Ruby Silk Thread 
+1952,	--Scarlet Odoshi 
+2658,	--Silkworm Thread 
+1946,	--Smalt Leather 
+1942,	--Snowy Cermet 
+1940,	--Supple Skin 
+1932,	--Utopian Gold Thread 
+2127,	--Metal Chip
+1986,	--Orchid Chip
+1987,	--Charcoal Chip
+1988,	--Magenta Chip
+1905,	--Scarlet Chip
+1906,	--Emerald Chip
+1907,	--Silver Chip
+1908,	--Cerulean Chip
+1909,	--Smalt Chip
+1910,	--Smoky Chip
 
 
 --ZNM---------------------------

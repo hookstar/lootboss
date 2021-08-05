@@ -152,13 +152,13 @@ return S{
 17907714,   --Draftdance Fluturini
 
 --BCNM
-16900314,   --Ouryu Cometh
-17215766,   --Walking Sapling
-17215771,   --Sapling
-16879861,   --Makara
-17215772,   --vulture
-17215764,   --Rock Lizard
-17444870, 	--Graviton
+16900314,	--Ouryu Cometh
+17215766,	--Walking Sapling
+17215771,	--Sapling
+16879861,	--Makara
+17215772,	--vulture
+17215764,	--Rock Lizard
+17444870,	--Graviton
 17444866,	--Molybiton
 17444867,	--Tungsiton
 17444868,	--Tonberrys_Elemental
@@ -178,7 +178,7 @@ return S{
 --TEST
 16879810,   -- Upryi
 17093006,   -- Tococo
-17215771,   -- 
+17215771,   -- Walking Sapling
 17215775,   -- Random Orc
 
 }
