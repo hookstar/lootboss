@@ -283,7 +283,13 @@ return S{
 1917,   --Sin of Insolence
 1918,   --Sin of Infatuation
 1919,   --Sin of Intemper.
-3212,   --Vision Jewel
+16283,	--Gnole Torque
+15859,	--Succor Ring
+11544,	--Veela Cape
+11633,	--Galdr Ring
+11628,	--Strigoi Ring
+16302,	--Bloodbead Gorget
+
 
 --Limbus------------------------
 
@@ -579,21 +585,25 @@ return S{
 16002,  --Roundel Earring
 
 --Pandemonium Warden
-11631,  --Blobnag Ring
-11634,  --Veela Ring
-11630,  --Corneus Ring
+
 11281,  --Hachiryu Haramaki
 18594,  --Dorje
 18759,  --Shlng. Baghnakhs
 18447,  --Nanatsusaya
-3228,   --Voyage Jewel
-11628,  --Strigoi Ring
-19051,  --Vivid Strap +1
-11633,  --Galdr Ring
-11629,  --Zilant Ring
 11632,  --Karka Ring
+11631,  --Blobnag Ring
+11629,  --Zilant Ring
+11630,  --Corneus Ring
+11634,  --Veela Ring
+19244,	--Verthandi's Gem
+15948,	--Bobcat Belt
+15953,  --Marching Belt
+16151,  --Leonine Mask
 11502,  --Acubus Helm
+14162,  --Agrona’s Leggings
+11585,  --Beguiling Collar
 949, 	--Rain Lily
+
 
 --HNM---------------------------
 
@@ -801,9 +811,21 @@ return S{
 
 --SN Custom---------------------
 
-1872, -- Ghrah M Chip
+1872, 	--Ghrah M Chip
+14469,	--Reverend Mail
+16241,	--Cuchulain’s Mantle
+15917,	--Cuchulain’s Belt
+15918,	--Witch Sash
+19029,	--Brave Grip
+19030,	--Wise Strap
+16002,	--Roundel Earring
+16001,	--Crapaud Earring
+
+
 
 --Random NM --------------------
+
+--Xolotol ----------------------
 14873, --Bandomusha Kote
 18002, --Perseuss Harpe
 15182, --Zoolater Hat

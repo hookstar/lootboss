@@ -153,27 +153,36 @@ return S{
 
 --BCNM
 16900314,	--Ouryu Cometh
-17215766,	--Walking Sapling
-17215771,	--Sapling
-16879861,	--Makara
-17215772,	--vulture
-17215764,	--Rock Lizard
+16896156,   --Bahamut (Storms of Fate)
+16896157,   --Bahamat V2 (Wyrmking Decends)
+
 17444870,	--Graviton
 17444866,	--Molybiton
 17444867,	--Tungsiton
-17444868,	--Tonberrys_Elemental
-17444869,	--Tonberrys_Avatar
 17444870,	--Graviton
 17444871,	--Molybiton
 17444872,	--Tungsiton
-17444873,	--Tonberrys_Elemental
-17444874,	--Tonberrys_Avatar
 17444875,	--Graviton
 17444876,	--Molybiton
 17444877,	--Tungsiton
 
 --Random NM
 16806215,	--Xolotl
+16896107,   --Imdugud
+16896131,   --Boroka
+16900230,	--Carmine Dobsonfly
+16900231,	--Carmine Dobsonfly
+16900232,	--Carmine Dobsonfly
+16900233,	--Carmine Dobsonfly
+16900234,	--Carmine Dobsonfly
+16900235,	--Carmine Dobsonfly
+16900236,	--Carmine Dobsonfly
+16900237,	--Carmine Dobsonfly
+16900238,	--Carmine Dobsonfly
+16900239,	--Carmine Dobsonfly
+16896155,	--Unstable Cluster
+16793859,	--Shen
+17596720,	--Serket
 
 --TEST
 16879810,   -- Upryi
