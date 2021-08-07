@@ -210,8 +210,14 @@ return S{
 1822,   --Supernal Fragment
 
 --Dynamis Lord
-13658,  --Shadow Mantle
-14646,  --Shadow Ring
+--Divine Goad
+--Nocturnus Mail
+--Nocturnus Helm
+--Shrewd Pumps
+--Bricta’s Cuffs
+--Shadow Mantle
+--Shadow Ring
+--Nightfall
 
 --GuDha Effigy
 
@@ -224,6 +230,37 @@ return S{
 17788,	--Sairen
 18089,	--Schiltron Spear
 17999,  --Taillefer’s Dagger
+
+--OVERLORD’S TOMBSTONE
+19048,  --Reign Grip
+15810,  --Luzaf’s Ring
+14674,  --Toreador’s Ring
+17829,  --Hagun
+16307,  --Repelling Collar
+17938,  --Woodville’s Axe
+17658,  --Tutelary
+17998,  --Thanatos Baselard
+18087,  --Schwarz Lance
+
+--TZEE XICU IDOL
+27599,  --Dew Silk Cape +1
+11543,  --Hecate’s Cape
+15978,  --Rapture Earring
+11289,  --Ixion Cloak
+16242,  --Ixion Cape
+15954,  --Fierce Belt
+15955,  --Fatality Belt
+14651,  --Mana Ring
+19023,  --Staff Strap
+
+--GOBLIN GOLEM
+11586,  --Backlash Torque
+19245,  --Jinx Ampulla
+16054,  --Hirudinea Earring
+16055,  --Choreia Earring
+11587,  --Nyx Gorget
+16056,  --Pagondas Earring
+16306,  --Halting Stole
 
 --Sea---------------------------
 
@@ -470,7 +507,6 @@ return S{
 18126,  --Tomoe
 19035,  --Thunder Grip
 19036,  --Earth Grip
-18020,  --Mercurial Kris
 
 --Gotoh Zha the Redolent
 2611,   --G. Zhas Necklace
@@ -479,7 +515,6 @@ return S{
 19032,  --Water Grip
 19037,  --Light Grip
 19153,  --Naglering
-13648,  --Gigant Mantle
 
 --Dea
 2612,   --Dea's Horn
@@ -496,7 +531,6 @@ return S{
 17960,  --Labrys
 19033,  --Wind Grip
 19036,  --Earth Grip
-16267,  --Ritter Gorget
 
 --Khromasoul Bhurborlor
 2621,   --Bblr.s Vambrace
@@ -512,8 +546,6 @@ return S{
 16342,  --Oracle's Braconi
 17753,  --Organics
 19034,  --Ice Grip
-19035,  --Thunder Grip
-17857,  --Animator +1
 
 --Mahjlaef the Paintorn
 2630,   --Mahjlaef's Staff
@@ -522,7 +554,6 @@ return S{
 16342,  --Oracle's Braconi
 19031,  --Fire Grip
 19035,  --Thunder Grip
-16269,  --Morgana's Chokers
 
 --Experimental Lamia
 2631,   --Ex. Lamia Armband
@@ -531,7 +562,6 @@ return S{
 18595,  --Mekki Shakki
 19032,  --Water Grip
 19036,  --Earth Grip
-15911,  --Buccaneer's Belt
 
 --Nuhn
 2632,   --Nuhn's Esca
@@ -540,7 +570,6 @@ return S{
 18430,  --Oninohocho
 19033,  --Wind Grip
 19037,  --Light Grip
-15800,  --Omege Ring
 
 --Tinnin
 2158,   --Hydra Fang
@@ -566,8 +595,6 @@ return S{
 16337,  --Hachiryu Haidate
 18446,  --Pachipachio
 18497,  --Foolkiller
-16117,  --Valhalla Helm
-14577,  --Valhalla Brstplate
 
 
 --Tyger
@@ -581,8 +608,7 @@ return S{
 16157,  --Enkidu's Cap
 18857,  --Antares
 18948,  --Enforcer
-15657,  --Shadow Trews
-16002,  --Roundel Earring
+
 
 --Pandemonium Warden
 
